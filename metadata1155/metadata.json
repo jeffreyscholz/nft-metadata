@@ -1,0 +1,8 @@
+{
+  "name": "Kumpulan Angka",
+  "description": "A lovely collection of calligraphy numbers.",
+  "image": "https://openseacreatures.io/image.png",
+  "external_link": "https://github.com/jeffreyscholz/nft-metadata/",
+  "seller_fee_basis_points": 1000,
+  "fee_recipient": "0x334cb5e720EDEeb191f7AE21989787aDC2FFaE47"
+}
